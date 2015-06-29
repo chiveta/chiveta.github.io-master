@@ -12,18 +12,18 @@
 <tbody>
 <tr>
 <td>(G510)</td>
-<td>UltraGamerHD, jjm34, hsr0</td>
-<td>Usable, Stable</td>
+<td>Chiveta</td>
+<td>-</td>
 </tr>
 <tr>
 <td>(hws8301l)</td>
-<td>lozohcum, AshRoller</td>
-<td>Usable, stable</td>
+<td>chiveta</td>
+<td>-</td>
 </tr>
 <tr>
 <td>(surnia)</td>
 <td>ShivangDave</td>
-<td>Usable, stable</td>
+<td>-</td>
 </tr>
 </tbody>
 </table>
