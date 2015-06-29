@@ -11,23 +11,18 @@
 </thead>
 <tbody>
 <tr>
-<td>Xperia E (nanhu)</td>
+<td>(G510)</td>
 <td>UltraGamerHD, jjm34, hsr0</td>
 <td>Usable, Stable</td>
 </tr>
 <tr>
-<td>Xperia J (jlo)</td>
+<td>(hws8301l)</td>
 <td>lozohcum, AshRoller</td>
 <td>Usable, stable</td>
 </tr>
 <tr>
-<td>Xperia Miro (mesona)</td>
+<td>(surnia)</td>
 <td>ShivangDave</td>
-<td>Usable, stable</td>
-</tr>
-<tr>
-<td>Xperia Tipo (tapioca)</td>
-<td>joebonrichie, sl3rgx</td>
 <td>Usable, stable</td>
 </tr>
 </tbody>
